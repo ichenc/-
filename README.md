@@ -14,7 +14,7 @@
 
 - **地址1：[https://ichenc.github.io/tvboxo/Biubiu/biu.txt](https://ichenc.github.io/tvboxo/Biubiu/biu.txt)**
 - **地址2：[https://ichenc.github.io/tvboxo/Biubiu/bb测试版.txt](https://ichenc.github.io/tvboxo/Biubiu/bb测试版txt)**
-- **地址3：[https://ichenc.github.io/maotv/biubiu.json](http	s://ichenc.github.io/maotv/biubiu.json)**
+- **地址3：[https://ichenc.github.io/maotv/biubiu.json](https://ichenc.github.io/maotv/biubiu.json)**
 - **地址4：[https://ichenc.github.io/maotv/biubiu1.json](https://ichenc.github.io/maotv/biubiu1.json)**
 - **地址5：[https://ichenc.github.io/maotv/biubiu2.json](https://ichenc.github.io/maotv/biubiu2.json)**
 - **地址6：[https://ichenc.github.io/maotv/biubiu3.json](https://ichenc.github.io/maotv/biubiu3.json)**
