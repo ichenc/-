@@ -12,8 +12,12 @@
 
 ## live
 
-- **地址1：[https://ichenc.github.io/tvboxo/Pplayer/ntest.json](https://ichenc.github.io/tvboxo/Pplayer/ntest.json)**
-- **地址2：[https://ichenc.github.io/tvboxo/Pplayer/ntest.json](https://ichenc.github.io/tvboxo/Pplayer/ntest.json)**
+- **地址1：[https://ichenc.github.io/tvboxo/tv/bc.txt](https://ichenc.github.io/tvboxo/tv/bc.txt)**
+- **地址2：[https://ichenc.github.io/tvboxo/tv/huaya.txt](https://ichenc.github.io/tvboxo/tv/huaya.txt)**
+- **地址2：[https://ichenc.github.io/tvboxo/tv/live.txt](https://ichenc.github.io/tvboxo/tv/live.txt)**
+- **地址2：[https://ichenc.github.io/tvboxo/tv/mtv.txt](https://ichenc.github.io/tvboxo/tv/mtv.txt)**
+- **地址2：[https://ichenc.github.io/tvboxo/tv/ts.txt](https://ichenc.github.io/tvboxo/tv/ts.txt)**
+- **地址2：[https://ichenc.github.io/tvboxo/tv/xm.txt](https://ichenc.github.io/tvboxo/tv/xm.txt)**
 
 ## live
 
