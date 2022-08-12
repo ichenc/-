@@ -10,8 +10,8 @@
 
 ## biubiu
 
-- **地址1：[https://ichenc.github.io/tvboxo/biubiu/biu.txt](https://ichenc.github.io/tvboxo/biubiu/biu.txt)**
-- **地址2：[https://ichenc.github.io/tvboxo/biubiu/bb测试版.txt](https://ichenc.github.io/tvboxo/biubiu/bb测试版txt)**
+- **地址1：[https://ichenc.github.io/tvboxo/Biubiu/biu.txt](https://ichenc.github.io/tvboxo/Biubiu/biu.txt)**
+- **地址2：[https://ichenc.github.io/tvboxo/Biubiu/bb测试版.txt](https://ichenc.github.io/tvboxo/Biubiu/bb测试版txt)**
 
 ## live
 
