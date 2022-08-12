@@ -3,7 +3,10 @@
 ## tvbox
 
 - **地址1：[https://ichenc.github.io/tvboxo/Pplayer/ntest.json](https://ichenc.github.io/tvboxo/Pplayer/ntest.json)**
-- **地址2：[https://ichenc.github.io/tvboxo/Pplayer/ntest.json](https://ichenc.github.io/tvboxo/Pplayer/ntest.json)**
+- **地址2：[https://ichenc.github.io/tvboxo/Text/nbiubiu.json](https://ichenc.github.io/tvboxo/Text/nbiubiu.json)**
+- **地址2：[https://ichenc.github.io/tvboxo/Text/nju.json](https://ichenc.github.io/tvboxo/Text/nju.json)**
+- **地址2：[https://ichenc.github.io/tvboxo/Text/top9.json](https://ichenc.github.io/tvboxo/Text/top9.json)**
+- **地址2：[https://ichenc.github.io/tvboxo/Text/top92.json](https://ichenc.github.io/tvboxo/Text/top92.json)**
 
 ## biubiu
 
