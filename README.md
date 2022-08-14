@@ -9,6 +9,8 @@
 - **地址5：[https://ichenc.github.io/tvboxo/Text/top92.json](https://ichenc.github.io/tvboxo/Text/top92.json)**
 - **地址6：[https://ichenc.github.io/maotv/cyys.txt](https://ichenc.github.io/maotv/cyys.txt)**
 - **地址7：[https://ichenc.github.io/maotv/cyys1.txt](https://ichenc.github.io/maotv/cyys1.txt)**
+- **地址8：[https://gitea.com/ichenczh/tvbox/raw/branch/main/tvbox.json](https://gitea.com/ichenczh/tvbox/raw/branch/main/tvbox.json)**
+- **地址9：[https://gitea.com/ichenczh/tvbox/raw/branch/main/tvbox2.json](https://gitea.com/ichenczh/tvbox/raw/branch/main/tvbox2.json)**
 
 ## biubiu
 
