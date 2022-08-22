@@ -3,8 +3,8 @@
 ## tvbox
 
 - **地址1：[https://gitea.com/ichenczh/tvbox/raw/branch/main/tvbox.json](https://gitea.com/ichenczh/tvbox/raw/branch/main/tvbox.json)**
-- **地址2：[https://gitea.com/ichenczh/tvbox/raw/branch/main/tvbox2.json](https://gitea.com/ichenczh/tvbox/raw/branch/main/tvboxac.json)**
-- **地址3：[https://gitea.com/ichenczh/tvbox/raw/branch/main/tvbox2.json](https://gitea.com/ichenczh/tvbox/raw/branch/main/tvboxcc.json)**
+- **地址2：[https://gitea.com/ichenczh/tvbox/raw/branch/main/tvboxac.json](https://gitea.com/ichenczh/tvbox/raw/branch/main/tvboxac.json)**
+- **地址3：[https://gitea.com/ichenczh/tvbox/raw/branch/main/tvboxcc.json](https://gitea.com/ichenczh/tvbox/raw/branch/main/tvboxcc.json)**
 
 ## biubiu
 
