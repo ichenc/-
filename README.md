@@ -1,19 +1,5 @@
 # TvBox 接口
 
-更新时间: 2022-09-02 23:35:00
-
-## 每天维护的接口，慢慢收集
-
-|   名称  | 更新时间  |地址  |
-|  ----  | ----  |----  |
-|  刚刚 | 2022-09-02 23:45:00 |[地址](http://xn--4bra.live/gg0825.json) |
-|  pluto.json | 2022-09-01 23:35:00 |[地址](https://gitea.com/ichenczh/tvbox/raw/branch/main/pluto.json) |
-|  1.m3u8 | 2022-09-01 23:35:00 |[地址](http://maoyingshi.cc/tvbox/云星日记/1.m3u8) |
-|  20220729-1.json | 2022-09-01 23:35:00 |[地址](https://gitea.com/ltxxjs/tinghao/raw/branch/main/20220729-1.json) |
-|  XC.json | 2022-09-01 23:35:00 |[地址](https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json) |
-|  备用接口 | 2022-09-02 23:35:00 |[地址](https://gitea.com/ichenczh/tvbox/raw/branch/main/tvbox1.json) |
-
- 
 ## 壁纸api
   
 |   名称  | 更新时间  |地址  |
