@@ -3,7 +3,7 @@
 
 	"wallpaper": "https://bing.img.run/1920x1080.php",
 
-	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cCUzQS8vaWNoZW5jLmNuLzIyLnR4dA=="]}]}],
+	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2ljaGVuYy5naXRodWIuaW8vLS8xLnR4dA=="]}]}],
 	"sites": [
 
 		{"key":"csp_SP360","name":"360┃官解","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
