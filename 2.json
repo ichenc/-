@@ -1,9 +1,9 @@
 {
-	"spider": "https://ichenc.github.io/-/blob/main/jar/0925.jar", 
+	"spider": "https://gitcdn.top/https://ichenc.github.io/-/blob/main/jar/0925.jar", 
 
 	"wallpaper": "https://bing.img.run/rand_uhd.php",
 
-	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9pY2hlbmMuZ2l0aHViLmlvLy0vYmxvYi9tYWluL2xpdmUvMS50eHQ="]}]}],
+	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjZG4udG9wL2h0dHBzOi8vaWNoZW5jLmdpdGh1Yi5pby8tL2Jsb2IvbWFpbi9saXZlLzEudHh0"]}]}],
 	"sites": [
 
 		{"key":"csp_SP360","name":"360┃官解","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
