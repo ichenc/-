@@ -1,5 +1,7 @@
 # TvBox 接口
 
+[https://gitcdn.top/https://github.com/ichenc/-/blob/main/1.json](https://gitcdn.top/https://github.com/ichenc/-/blob/main/1.json)
+
 ## 壁纸api
   
 |   名称  | 更新时间  |地址  |
