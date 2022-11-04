@@ -13,17 +13,12 @@
         {"key":"csp_Bttoo","name":"BTToo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Czsapp","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Lezhu","name":"乐猪影视","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_GitCafe","name":"小纸条┃云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/json/alitoken.json"},
-		{"key":"Yisou","name":"易搜┃云盘搜索","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/json/alitoken.json"},
-		{"key":"Alips","name":"喵搜┃云盘搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/json/alitoken.json"},
-		{"key":"Zhaozy","name":"找资源┃云盘搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/json/alitoken.json"},
-		{"key":"Upyunso","name":"云搜┃云盘搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/json/alitoken.json"},
-		{"key":"csp_KanSJ","name":"看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},	
+
+
         {"key":"csp_apple","name":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_Cokemv","name":"COKEMV","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_Lib","name": "LIBvio","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
+
         {"key":"csp_Auete","name":"Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},	
-        {"key":"csp_SP293","name":"293┃不稳","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
+
         {"key":"csp_DiDuan" ,"name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 		{"key":"csp_NianYing","name":"NBhut","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Bd","name":"哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
@@ -76,8 +71,8 @@
 
 		{"key":"csp_xpath_qiumi","name":"球迷直播","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/json/qiumi.json"},
 		{"key":"csp_XYQBiu_酷奇","name": "经典MTV","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/json/kuqi.json"},
-		{"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/json/huya.json"}
-	
+		{"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/json/huya.json"},
+		{"key":"csp_XYQBiu_斗鱼直播","name":"斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/json/斗鱼直播.json"},
 
 	],
 	"parses": [
