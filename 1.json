@@ -1,9 +1,9 @@
 {
 	"spider": "https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/jar/0925.jar", 
 
-	"wallpaper": "https://bing.img.run/rand_uhd.php",
+	"wallpaper": "https://bing.img.run/1920x1080.php",
 
-	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjZG4udG9wL2h0dHBzOi8vZ2l0aHViLmNvbS9pY2hlbmMvLS9ibG9iL21haW4vbGl2ZS8xLnR4dA=="]}]}],
+	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ljaGVuYy5jbi8xLnR4dA=="]}]}],
 	"sites": [
 
 		{"key":"csp_SP360","name":"360┃官解","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
@@ -13,12 +13,12 @@
         {"key":"csp_Bttoo","name":"BTToo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Czsapp","name":"厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Lezhu","name":"乐猪影视","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
-
-
+		{"key":"csp_KanSJ","name":"看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},	
         {"key":"csp_apple","name":"小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-
+        {"key":"csp_Cokemv","name":"COKEMV","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_Lib","name": "LIBvio","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key":"csp_Auete","name":"Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},	
-
+        {"key":"csp_SP293","name":"293┃不稳","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_DiDuan" ,"name":"低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 		{"key":"csp_NianYing","name":"NBhut","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Bd","name":"哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
@@ -71,17 +71,17 @@
 
 		{"key":"csp_xpath_qiumi","name":"球迷直播","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/json/qiumi.json"},
 		{"key":"csp_XYQBiu_酷奇","name": "经典MTV","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/json/kuqi.json"},
-		{"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/json/huya.json"},
-		{"key":"csp_XYQBiu_斗鱼直播","name":"斗鱼直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/json/斗鱼直播.json"},
+		{"key":"csp_XYQBiu_虎牙直播","name":"虎牙直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/json/huya.json"}
+	
 
 	],
 	"parses": [
 	{"name":"解析聚合","type":3,"url":"Demo"},{"name":"Json并发","type":2,"url":"Parallel"},{"name":"Json轮询","type":2,"url":"Sequence"},
 	{"name":"GGTV","type":1,"url":"https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url="},
 	{"name":"GGTV聚合","type":1,"url":"https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
-//{"name":"Fosi嗅探","type":0,"url":"https://play.fositv.com/?url="},{"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url="},
-//{"name":"Nxflv嗅探","type":0,"url":"https://www.nxflv.com/?url="},
-//{"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+{"name":"Fosi嗅探","type":0,"url":"https://play.fositv.com/?url="},{"name":"OKjx嗅探","type":0,"url":"https://okjx.cc/?url="},
+{"name":"Nxflv嗅探","type":0,"url":"https://www.nxflv.com/?url="},
+{"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
     {"name":"解析1","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 	{"name":"解析2","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="}
 	],
