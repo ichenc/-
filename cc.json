@@ -1,7 +1,7 @@
 {
 	"spider": "https://晨晨.xyz/-/jar/1018.jar", 
      //Bing今日壁纸超高清原图
-	"wallpaper": "https://bing.img.run/rand_uhd.php",
+	"wallpaper": "https://bing.img.run/uhd.php",
 
 	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly94bi0tbmt2YS54eXovLS9saXZlL3piLnR4dA=="]}]}],
 	"sites": [
