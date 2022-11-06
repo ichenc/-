@@ -1,6 +1,6 @@
 {
-	"spider": "https://likecc.xyz/-/jar/0925.jar", 
-
+	"spider": "https://晨晨.xyz/-/jar/0925.jar", 
+     //Bing今日壁纸超高清原图
 	"wallpaper": "https://bing.img.run/rand_uhd.php",
 
 	"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi96Yi50eHQ="]}]}],

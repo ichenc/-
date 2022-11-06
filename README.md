@@ -1,6 +1,7 @@
 # 自用资源，请勿传播！
 
 #开源仓库
+
 https://github.com/  
 https://gitlab.com/  
 https://gitee.com/  
@@ -10,14 +11,24 @@ https://agit.ai/
 https://notabug.org/  
 
 # emoji
-[emoji表情无法查看或者黑白图，请安装Microsoft Edge或者chrome浏览器的64位版本](https://ichenc.github.io/-/emoji.md)
+[🦄️ 🐞 🏮 🐼 🐯 🦊 🐱 🐘 🦖 🐉 🐇 🐤 🦟 🐷 🐔 🐻 🐶 🍤 🐴 🐒 🦢 🐂 🐄 🐎 🐌 🐢 🦑 🐟 🐬 🐣 🧠 💯 ✔️  🈚 🉑 ⚠️ 👍  
+
+🎤 🎾 👒 📺 🚀 🎈 🛳 🌸 ♥️ 🏯  🏀 💘 🎨 🔥 ❤️ 🌟 ✨ ✖️ ♾️ 🕣 🏷️ 🌎 🦪 💰 🚴‍♀️ 🚴 🕐 🧻 ✅ 🌈 🌃 🏠 👻 🦵 👣 💪
+
+📼 🎏 🌀 🔃 🚬 🧼 🧿 🀄 🌏 🤘 🪒 🥫 📢 🖍️ 🎟️ 🧩 🎬 🆖 👌 📈 📉 🥍 🗾 🔉 ✏️ 📓 ✍️ ⏮️ 🆘 📡 👀 📱 🔋 � 🪑 🔒 🎸 📷 🛸
+
+🏷️ 🚍 💴 👩‍✈️ 🏭 🧹 👩‍👩‍👧‍👦 👭🏽 🪁 🚵
+
+👴 👨‍ 👶 👫 👩‍💼 👩 🌅 🌒 😷 😍 😊 🥶 😰 🙁 🥺 🤣 👄 👡 👨‍👦‍👦 👨‍👨‍👦‍👦 👩🏿‍🤝‍👩🏼 💃 💆‍♂️ 🎳 👷‍ 🧙‍♀️ 🤹‍♀️ 👩‍👩‍👦 🏜️ 🧝‍♂️ 👨🏿‍🤝‍👨🏼 🎊 👿 🅰 🛑 👋 🛴🆑
+ 
+☕️ 🥪 🍵 🍹 🥗 🍺 🍚 🥩 🥜 🌰 🍞 🥐 🥖 🥨 🥯 🥞 🧀 🍖 🍗 🥓 🍔 🍟 🍕 🌭 🥪 🌮 🌯 🥙 🌶 🍔 🍜 🍱 🥛 🥚 🌿 🍀 🍃](https://ichenc.github.io/-/emoji.md)
 
 #EGP源  
 http://epg.51zmt.top:8000/e.xml  
 https://epg.112114.xyz/pp.xml
 
 #接口、壁纸
-[接口地址收集页](https://ichenc.github.io/-/)
+[接口地址收集页](https://晨晨.xyz/-/)
 
 # Github RAW 加速服务
 源码    `https://gitcdn.top/https://github.com/ichenc/-/raw/main/1.json`  
