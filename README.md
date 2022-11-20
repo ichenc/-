@@ -2,30 +2,8 @@
 
 #开源仓库
 
-https://github.com/  
-https://gitlab.com/  
-https://gitee.com/  
-https://coding.net/  
-https://gitcode.net/    
-https://agit.ai/  
-https://notabug.org/  
-
-# emoji
-[🦄️ 🐞 🏮 🐼 🐯 🦊 🐱 🐘 🦖 🐉 🐇 🐤 🦟 🐷 🐔 🐻 🐶 🍤 🐴 🐒 🦢 🐂 🐄 🐎 🐌 🐢 🦑 🐟 🐬 🐣 🧠 💯 ✔️  🈚 🉑 ⚠️ 👍  
-
-🎤 🎾 👒 📺 🚀 🎈 🛳 🌸 ♥️ 🏯  🏀 💘 🎨 🔥 ❤️ 🌟 ✨ ✖️ ♾️ 🕣 🏷️ 🌎 🦪 💰 🚴‍♀️ 🚴 🕐 🧻 ✅ 🌈 🌃 🏠 👻 🦵 👣 💪
-
-📼 🎏 🌀 🔃 🚬 🧼 🧿 🀄 🌏 🤘 🪒 🥫 📢 🖍️ 🎟️ 🧩 🎬 🆖 👌 📈 📉 🥍 🗾 🔉 ✏️ 📓 ✍️ ⏮️ 🆘 📡 👀 📱 🔋 � 🪑 🔒 🎸 📷 🛸
-
-🏷️ 🚍 💴 👩‍✈️ 🏭 🧹 👩‍👩‍👧‍👦 👭🏽 🪁 🚵
-
-👴 👨‍ 👶 👫 👩‍💼 👩 🌅 🌒 😷 😍 😊 🥶 😰 🙁 🥺 🤣 👄 👡 👨‍👦‍👦 👨‍👨‍👦‍👦 👩🏿‍🤝‍👩🏼 💃 💆‍♂️ 🎳 👷‍ 🧙‍♀️ 🤹‍♀️ 👩‍👩‍👦 🏜️ 🧝‍♂️ 👨🏿‍🤝‍👨🏼 🎊 👿 🅰 🛑 👋 🛴🆑
- 
-☕️ 🥪 🍵 🍹 🥗 🍺 🍚 🥩 🥜 🌰 🍞 🥐 🥖 🥨 🥯 🥞 🧀 🍖 🍗 🥓 🍔 🍟 🍕 🌭 🥪 🌮 🌯 🥙 🌶 🍔 🍜 🍱 🥛 🥚 🌿 🍀 🍃](https://ichenc.github.io/-/emoji.md)
-
-#EGP源  
-http://epg.51zmt.top:8000/e.xml  
-https://epg.112114.xyz/pp.xml
+影视接口：https://晨晨.xyz/-/1.json[点击下载密码：8888](https://ichenczh.lanzoue.com/b02jjb0cj)
+音乐接口：https://晨晨.xyz/-/yin.json[点击下载密码:8888]（https://ichenczh.lanzoue.com/b02jv035g）
 
 #接口、壁纸
 [接口地址收集页](https://晨晨.xyz/-/)
@@ -48,4 +26,4 @@ https://epg.112114.xyz/pp.xml
 `https://purge.jsdelivr.net/gh/ichenc/-@main/1.json`  
 
 ------------------------------------------------------------------------------
-# 以上为互联网流传资源，不保证内容的真实性和可靠性。本页面只是收集，自用请勿宣传。
+#本仓库的接口来自于网络公开的接口，不保证内容的真实性和可靠性。仅供学习参考使用，自用请勿宣传。
