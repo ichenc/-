@@ -5,7 +5,7 @@
 影视接口：https://晨晨.xyz/-/1.json     [点击下载密码：8888](https://ichenczh.lanzoue.com/b02jjb0cj)
 
 
-音乐接口：https://晨晨.xyz/-/yin.json    [点击下载密码:8888]（https://ichenczh.lanzoue.com/b02jv035g）
+音乐接口：https://晨晨.xyz/-/yin.json    [点击下载密码:8888](https://ichenczh.lanzoue.com/b02jv035g)
 
 #接口、壁纸
 [接口地址收集页](https://晨晨.xyz/-/)
