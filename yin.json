@@ -1,0 +1,40 @@
+{
+  "plugins": [
+    {
+      "name": "bilibili",
+      "url": "https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/music/bilibili.js"
+    },
+    {
+      "name": "咪咕",
+      "url": "https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/music/migu.js"
+    },
+    {
+      "name": "网易云",
+      "url": "https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/music/netease.js"
+    },
+    {
+      "name": "全民K歌",
+      "url": "https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/music/qmkg.js"
+    },
+    {
+      "name": "酷我",
+      "url": "https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/music/kuwo.js"
+    },
+    {
+      "name": "千千音乐",
+      "url": "https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/music/qianqian.js"
+    },
+    {
+      "name": "5sing",
+      "url": "https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/music/5sing.js"
+    },
+    {
+      "name": "酷狗",
+      "url": "https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/music/kugou.js"
+    },
+    {
+      "name": "QQ音乐",
+      "url": "https://gitcdn.top/https://raw.githubusercontent.com/ichenc/-/main/music/qq.js"
+    }
+  ]
+}
